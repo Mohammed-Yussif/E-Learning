@@ -32,6 +32,10 @@ The Online Learning Management System is an eLearning platform built using Larav
 - **Instructor:** 
   - Email: fras@gmail.com
   - Password: 123
+ - **Student:** 
+  - Email: student1@gmail.com
+  - Password: 123
+
 
 ## Getting Started
 

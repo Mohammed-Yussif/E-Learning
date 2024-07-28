@@ -28,10 +28,10 @@ The Online Learning Management System is an eLearning platform built using Larav
 ## Demo Credentials
 
 - **SuperAdmin:** 
-  - Email: admin@gmail.com
-  - Password: 123
+  - Email: mohammed@gmail.com
+  - Password: 775757076
 - **Instructor:** 
-  - Email: fuad@gmail.com
+  - Email: fras@gmail.com
   - Password: 123
 
 ## Getting Started
